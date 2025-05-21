@@ -7,24 +7,26 @@ Outside of work, I actively pursue personal data projects and continuously learn
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- Portfolio Projects
+
+**Portfolio Projects**
+
 - [Forte Grocery Inventory Analysis Dashboard](#forte-grocery-inventory-analysis-dashboard)
   
-		[GitHub Repository](https://github.com/AlifAfiq/Forte-Grocery/tree/main)
+	[GitHub Repository](https://github.com/AlifAfiq/Forte-Grocery/tree/main)
   
-		[GitHub Pages](https://alifafiq.github.io/Forte-Grocery/)
+	[GitHub Pages](https://alifafiq.github.io/Forte-Grocery/)
 
 - [Pizzozo Annual Sales Report Dashboard](#pizzozo-annual-sales-report-dashboard)
   
-		[GitHub Repository](https://github.com/AlifAfiq/Pizzozo-Annual-Sales-Report-Dashboard)
+	[GitHub Repository](https://github.com/AlifAfiq/Pizzozo-Annual-Sales-Report-Dashboard)
   
-		[GitHub Pages](https://alifafiq.github.io/Pizzozo-Annual-Sales-Report-Dashboard/)
+	[GitHub Pages](https://alifafiq.github.io/Pizzozo-Annual-Sales-Report-Dashboard/)
   
 - [All Day Bike Dashboard](#all-day-bike-dashboard)
   
-		[GitHub Repository](https://github.com/AlifAfiq/Development-of-All-Day-Bike-Dashboard)
+	[GitHub Repository](https://github.com/AlifAfiq/Development-of-All-Day-Bike-Dashboard)
   
-		[GitHub Pages](https://alifafiq.github.io/Development-of-All-Day-Bike-Dashboard/)
+	[GitHub Pages](https://alifafiq.github.io/Development-of-All-Day-Bike-Dashboard/)
   
 - [Power BI](https://github.com/AlifAfiq/Sales-Dashboard-Common-)
   
@@ -43,8 +45,8 @@ In this section, I will list data analytics projects briefly describing the tech
 ### Forte Grocery Inventory Analysis Dashboard 
 
 **Link:**
-- [GitHub Repository](https://github.com/AlifAfiq/Forte-Grocery/tree/main)
-- [GitHub Pages](https://alifafiq.github.io/Forte-Grocery/)
+	-[GitHub Repository](https://github.com/AlifAfiq/Forte-Grocery/tree/main)
+	-[GitHub Pages](https://alifafiq.github.io/Forte-Grocery/)
 
 **Description:** This project delivers insights and solutions through Power BI dashboard for Forte Grocery, analyzing sales, profit, stock levels, and supplier performance. It helps identify top-performing categories, low-stock items, and efficient suppliers. It includes transforming raw CSV data, validating with SQL, cleaning the data, and using Power BI with Power Query and DAX for visualisation.
 
