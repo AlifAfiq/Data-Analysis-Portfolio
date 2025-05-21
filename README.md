@@ -9,19 +9,30 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - Portfolio Projects
 - [Forte Grocery Inventory Analysis Dashboard](#forte-grocery-inventory-analysis-dashboard)
+  
 		- [GitHub Repository](https://github.com/AlifAfiq/Forte-Grocery/tree/main)
+  
 		- [GitHub Pages](https://alifafiq.github.io/Forte-Grocery/)
+
 - [Pizzozo Annual Sales Report Dashboard](#pizzozo-annual-sales-report-dashboard)
+  
 		- [GitHub Repository](https://github.com/AlifAfiq/Pizzozo-Annual-Sales-Report-Dashboard)
+  
 		- [GitHub Pages](https://alifafiq.github.io/Pizzozo-Annual-Sales-Report-Dashboard/)
+  
 - [All Day Bike Dashboard](#all-day-bike-dashboard)
+  
 		- [GitHub Repository](https://github.com/AlifAfiq/Development-of-All-Day-Bike-Dashboard)
+  
 		- [GitHub Pages](https://alifafiq.github.io/Development-of-All-Day-Bike-Dashboard/)
+  
 - [Power BI](https://github.com/AlifAfiq/Sales-Dashboard-Common-)
+  
 - [Excel / Google Sheets](https://github.com/AlifAfiq/Simple-Excel-Dashboard)
+  
 -[Tableau](https://public.tableau.com/app/profile/muhammad.alif.afiq.bin.khairul.anuar/vizzes)
 
-  - Education(#education)
+- Education(#education)
 
 
 
