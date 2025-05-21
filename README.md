@@ -91,11 +91,14 @@ In this section, I will list data analytics projects briefly describing the tech
 
 
 ## Education
+
 University of Auckland, New Zealand 
 
 Bachelor of Commerce, Double Major in Information Systems and Accounting
 
 July 2022 - July 2024
+
+
 
 
 Kolej Yayasan Saad Business School 
