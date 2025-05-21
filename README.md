@@ -97,6 +97,7 @@ Bachelor of Commerce, Double Major in Information Systems and Accounting
 
 July 2022 - July 2024
 
+
 Kolej Yayasan Saad Business School 
 
 Foundation in Commerce
