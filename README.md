@@ -46,9 +46,9 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Link:**
 
-   [GitHub Repository](https://github.com/AlifAfiq/Forte-Grocery/tree/main)
+   - [GitHub Repository](https://github.com/AlifAfiq/Forte-Grocery/tree/main)
 
-   [GitHub Pages](https://alifafiq.github.io/Forte-Grocery/)
+   - [GitHub Pages](https://alifafiq.github.io/Forte-Grocery/)
 
 **Description:** This project delivers insights and solutions through Power BI dashboard for Forte Grocery, analyzing sales, profit, stock levels, and supplier performance. It helps identify top-performing categories, low-stock items, and efficient suppliers. It includes transforming raw CSV data, validating with SQL, cleaning the data, and using Power BI with Power Query and DAX for visualisation.
 
@@ -62,9 +62,9 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Link:** 
 
-   [GitHub Repository](https://github.com/AlifAfiq/Pizzozo-Annual-Sales-Report-Dashboard)
+   - [GitHub Repository](https://github.com/AlifAfiq/Pizzozo-Annual-Sales-Report-Dashboard)
 
-   [GitHub Pages](https://alifafiq.github.io/Pizzozo-Annual-Sales-Report-Dashboard/)/)
+   - [GitHub Pages](https://alifafiq.github.io/Pizzozo-Annual-Sales-Report-Dashboard/)
 
 **Description:** This project involves creating an interactive annual sales report dashboard for a Pizzozo, focusing on revenue, orders, and sales by pizza category and size. It includes transforming raw CSV data, validating with SQL, cleaning the data, and using Power BI with Power Query and DAX for visualization.
 
@@ -79,9 +79,9 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Link:** 
 
-   [GitHub Repository](https://github.com/AlifAfiq/Development-of-All-Day-Bike-Dashboard)
+   - [GitHub Repository](https://github.com/AlifAfiq/Development-of-All-Day-Bike-Dashboard)
 
-   [GitHub Pages](https://alifafiq.github.io/Development-of-All-Day-Bike-Dashboard/)
+   - [GitHub Pages](https://alifafiq.github.io/Development-of-All-Day-Bike-Dashboard/)
  
 **Objectives:** To develop a dashboard for All Day Bike which showcases key performance metrics to support data-driven decision making. To overview the revenue generated hourly. To observe the profit and revenue trends. To gain valuable insights based on seasonal factor and rider demographics. To serve an insight on potential price adjustments for next year based on the data analysis.
 
