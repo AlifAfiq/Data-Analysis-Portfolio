@@ -54,7 +54,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Skills:** data cleaning, data analysis, Data Query Language (DQL), Power Query, DAX, data visualization.
 
-**Technology:** SQL and Power BI 
+**Tools:** SQL and Power BI 
 
 **Outcome:** The dashboard reveals that Beverages rank second in profit (20%) despite having the lowest sales volume, likely due to their high average unit price (3x Fruits & Vegetables). The dashboard highlights a major risk: current stock for items marked for reorder is only at 50% of the desired level. Supplier analysis shows that several vendors such as Rhynoodle, Mydo, and Skivee consistently deliver over 80 units in under 60 days, with Rhynoodle being the most efficient at 33 days.
 
@@ -70,7 +70,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Skills:** data cleaning, data analysis, Data Query Language (DQL), Power Query, DAX, data visualization.
 
-**Technology:** SQL and Power BI
+**Tools:** SQL and Power BI
 
 **Outcomes:** Orders are highest on Friday, followed by Thursday and Saturday. The peak orders are in July, followed by May and January. Classic categories contribute just slightly more sales than other categories. Large pizza contributes significantly the most sales than other sizes. The Thai Chicken Pizza and the Barbeque Pizza contribute the most revenue. The Classic Deluxe Pizza contribute slightly more total orders than other pizzas.
 
@@ -87,7 +87,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Skills:** data cleaning, data analysis, Data Query Language (DQL), Power Query, DAX, data visualization.
 
-**Technology:** SQL and Power BI
+**Tools:** SQL and Power BI
 
 
 ## Education
