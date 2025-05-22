@@ -73,13 +73,13 @@ In this section, I will list data analytics projects briefly describing the tech
 **Description:** 
 This project applies supervised learning to a structured housing dataset to forecast house prices. The steps include:
 
-	- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-	- Model training using Linear Regression and Random Forest Regressor
+- Model training using Linear Regression and Random Forest Regressor
 
-	- Evaluation using metrics like MAE, MSE, RMSE, and R²
+- Evaluation using metrics like MAE, MSE, RMSE, and R²
 
-	- Result interpretation and proposing improvements
+- Result interpretation and proposing improvements
 
 **Outcomes:**
 - Linear Regression performed best:
