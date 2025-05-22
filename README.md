@@ -1,6 +1,6 @@
 # Alif Afiq - Data Analyst Portfolio
 ## About
-With a Bachelor's degree in Information Systems and Accounting, I am building my career at the intersection of data analytics and accounting awareness. I bring a detail-oriented approach to analysing data and a growing proficiency in tools like SQL, Power BI, Tableau, and Excel.
+With a Bachelor's degree in Information Systems and Accounting, I am building my career at the intersection of data analytics and accounting awareness. I bring a detail-oriented approach to analysing data and a growing proficiency in tools like SQL, Python, Power BI, Tableau, and Excel.
 My academic foundation has equipped me with technical and business insights, while hands-on projects have sharpened my ability to extract, visualise, and communicate data-driven stories. I have built dashboards, written analytical SQL queries, and tackled real-world data challenges, all with a focus on turning numbers into meaningful actions.
 Outside of work, I actively pursue personal data projects and continuously learn new tools and techniques to enhance my analytical toolkit. I am especially motivated by opportunities to solve practical problems using data and to support smarter, evidence-based decision-making in any organisation I contribute to.
 
@@ -16,6 +16,10 @@ This is a repository to showcase skills, share projects and track my progress in
   
 	- [GitHub Pages](https://alifafiq.github.io/Forte-Grocery/)
 
+- [House Price Prediction using Machine Learning](#house-price-prediction-using-machine-learning)
+  
+  	- [Google Colab](https://colab.research.google.com/drive/13RQrZP5OtqM968NdVg2p1m4dRq5AbDh3?usp=sharing)
+
 - [Pizzozo Annual Sales Report Dashboard](#pizzozo-annual-sales-report-dashboard)
   
 	- [GitHub Repository](https://github.com/AlifAfiq/Pizzozo-Annual-Sales-Report-Dashboard)
@@ -27,7 +31,7 @@ This is a repository to showcase skills, share projects and track my progress in
 	- [GitHub Repository](https://github.com/AlifAfiq/Development-of-All-Day-Bike-Dashboard)
   
 	- [GitHub Pages](https://alifafiq.github.io/Development-of-All-Day-Bike-Dashboard/)
-  
+  	  
 - [Power BI](https://github.com/AlifAfiq/Sales-Dashboard-Common-)
   
 - [Excel / Google Sheets](https://github.com/AlifAfiq/Simple-Excel-Dashboard)
@@ -57,6 +61,39 @@ In this section, I will list data analytics projects briefly describing the tech
 **Tools:** SQL and Power BI 
 
 **Outcome:** The dashboard reveals that Beverages rank second in profit (20%) despite having the lowest sales volume, likely due to their high average unit price (3x Fruits & Vegetables). The dashboard highlights a major risk: current stock for items marked for reorder is only at 50% of the desired level. Supplier analysis shows that several vendors such as Rhynoodle, Mydo, and Skivee consistently deliver over 80 units in under 60 days, with Rhynoodle being the most efficient at 33 days.
+
+
+### House Price Prediction using Machine Learning
+
+**Link:** 
+   - [Google Colab](https://colab.research.google.com/drive/13RQrZP5OtqM968NdVg2p1m4dRq5AbDh3?usp=sharing)
+
+**Goal:** To build and evaluate machine learning models that can accurately predict house prices based on various numerical features such as square footage, number of bedrooms, bathrooms, and neighbourhood quality.
+
+**Description:** 
+This project applies supervised learning to a structured housing dataset to forecast house prices. The steps include:
+
+	- Exploratory Data Analysis (EDA)
+
+	- Model training using Linear Regression and Random Forest Regressor
+
+	- Evaluation using metrics like MAE, MSE, RMSE, and R²
+
+	- Result interpretation and proposing improvements
+
+**Outcomes:**
+- Linear Regression performed best:
+
+	- MAE: 8174.58
+
+	- RMSE: 10071.48
+
+	- R²: 0.9984
+
+- Random Forest Regressor had slightly worse performance across all metrics.
+
+- The model can assist real estate agencies, developers, and investors in making smarter pricing decisions.
+  
 
 ### Pizzozo Annual Sales Report Dashboard
 
