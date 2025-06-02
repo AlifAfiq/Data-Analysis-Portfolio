@@ -1,7 +1,9 @@
 # Alif Afiq - Data Analyst Portfolio
 ## About
 With a Bachelor's degree in Information Systems and Accounting, I am building my career at the intersection of data analytics and accounting awareness. I bring a detail-oriented approach to analysing data and a growing proficiency in tools like SQL, Python, Power BI, Tableau, and Excel.
+
 My academic foundation has equipped me with technical and business insights, while hands-on projects have sharpened my ability to extract, visualise, and communicate data-driven stories. I have built dashboards, written analytical SQL queries, and tackled real-world data challenges, all with a focus on turning numbers into meaningful actions. Skilled in relational database design using Entity Relationship Diagram (ERDs) and data analysis from defined requirements. Familiar with interpreting and creating dataflow diagrams and system flowcharts for business and accounting processes.
+
 Outside of work, I actively pursue personal data projects and continuously learn new tools and techniques to enhance my analytical toolkit. I am especially motivated by opportunities to solve practical problems using data and to support smarter, evidence-based decision-making in any organisation I contribute to.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
