@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
   
   	- [Google Colab](https://colab.research.google.com/drive/13RQrZP5OtqM968NdVg2p1m4dRq5AbDh3?usp=sharing)
 
-- [Hero Insurance Inc. – Auto Insurance ERD Design]
+- [Hero Insurance Inc. Auto Insurance ERD Design](#hero-insurance-inc.-auto-insurance-eRD-design)
   
 	- [Entity Relationship Diagram (ERD)](https://drive.google.com/file/d/1U-bX8mvHK83jyrYNwYZKs2MBvFYGmbA7/view?usp=sharing)
    
@@ -100,7 +100,7 @@ This project applies supervised learning to a structured housing dataset to fore
 
 - The model can assist real estate agencies, developers, and investors in making smarter pricing decisions.
 
-### Hero Insurance Inc. – Auto Insurance ERD Design 
+### Hero Insurance Inc. Auto Insurance ERD Design
 
 **Link:**
    - [Entity Relationship Diagram (ERD)](https://drive.google.com/file/d/1U-bX8mvHK83jyrYNwYZKs2MBvFYGmbA7/view?usp=sharing)
