@@ -20,6 +20,12 @@ This is a repository to showcase skills, share projects and track my progress in
   
   	- [Google Colab](https://colab.research.google.com/drive/13RQrZP5OtqM968NdVg2p1m4dRq5AbDh3?usp=sharing)
 
+- [Hero Insurance Inc. – Auto Insurance ERD Design]
+  
+	- [Entity Relationship Diagram (ERD)](https://drive.google.com/file/d/1U-bX8mvHK83jyrYNwYZKs2MBvFYGmbA7/view?usp=sharing)
+   
+   	- [Hero Insurance Inc. Data Description](https://docs.google.com/document/d/1x4-N3zaBd4s3ilHYEuRyYyArRYi4IcDXOPbBkEa2Xdc/edit?usp=sharing)
+
 - [Pizzozo Annual Sales Report Dashboard](#pizzozo-annual-sales-report-dashboard)
   
 	- [GitHub Repository](https://github.com/AlifAfiq/Pizzozo-Annual-Sales-Report-Dashboard)
@@ -93,7 +99,22 @@ This project applies supervised learning to a structured housing dataset to fore
 - Random Forest Regressor had slightly worse performance across all metrics.
 
 - The model can assist real estate agencies, developers, and investors in making smarter pricing decisions.
-  
+
+### Hero Insurance Inc. – Auto Insurance ERD Design 
+
+**Link:**
+   - [Entity Relationship Diagram (ERD)](https://drive.google.com/file/d/1U-bX8mvHK83jyrYNwYZKs2MBvFYGmbA7/view?usp=sharing)
+   
+   - [Hero Insurance Inc. Data Description](https://docs.google.com/document/d/1x4-N3zaBd4s3ilHYEuRyYyArRYi4IcDXOPbBkEa2Xdc/edit?usp=sharing)
+
+**Description:** This project involves designing a fully normalised Entity-Relationship Diagram (ERD) for Hero Insurance Inc., an auto insurance company. The system models complex business processes, including policy issuance, claim handling, accident recording, and repair workflows. The ERD was built using Crow’s foot notation and incorporates subtyping for policyholders (individuals and organisations), bridge tables for many-to-many relationships, and normalisation techniques to ensure data integrity.
+
+**Skills:** data modelling, database normalisation (1NF, 2NF, 3NF), ERD design, relational schema design, analytical thinking, systems analysis.
+
+**Tools:** Draw.io
+
+**Outcomes:** Developed a normalised database design comprising over 20 interrelated tables representing real-world insurance operations. Clearly separated entities for drivers, policies, vehicles, claims, and repairs. Used bridge tables for drivers and policies, and modelled subtypes using surrogate and natural keys. The project demonstrates a strong understanding of relational database systems and has been published to GitHub as part of a professional data/system analyst portfolio.
+
 
 ### Pizzozo Annual Sales Report Dashboard
 
@@ -110,6 +131,7 @@ This project applies supervised learning to a structured housing dataset to fore
 **Tools:** SQL and Power BI
 
 **Outcomes:** Orders are highest on Friday, followed by Thursday and Saturday. The peak orders are in July, followed by May and January. Classic categories contribute just slightly more sales than other categories. Large pizza contributes significantly the most sales than other sizes. The Thai Chicken Pizza and the Barbeque Pizza contribute the most revenue. The Classic Deluxe Pizza contribute slightly more total orders than other pizzas.
+
 
 
 ### All Day Bike Dashboard
